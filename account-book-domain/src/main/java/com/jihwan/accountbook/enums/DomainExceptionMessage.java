@@ -8,7 +8,7 @@ public enum DomainExceptionMessage {
     PARAMETER_IS_NULL("[%s] 파라미터가 비어있습니다.")
     ;
 
-    private String message;
+    private final String message;
 
     DomainExceptionMessage(String message) {
         this.message = message;
