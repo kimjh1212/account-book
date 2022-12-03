@@ -1,6 +1,6 @@
-package com.jihwan.accountbook.repository;
+package com.jihwan.accountbook.domain.repository;
 
-import com.jihwan.accountbook.entity.AccountBook;
+import com.jihwan.accountbook.domain.entity.AccountBook;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

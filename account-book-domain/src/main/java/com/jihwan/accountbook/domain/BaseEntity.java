@@ -1,4 +1,4 @@
-package com.jihwan.accountbook;
+package com.jihwan.accountbook.domain;
 
 import lombok.Getter;
 import lombok.Setter;

@@ -1,4 +1,4 @@
-package com.jihwan.accountbook.message;
+package com.jihwan.accountbook.app.message;
 
 import lombok.Setter;
 

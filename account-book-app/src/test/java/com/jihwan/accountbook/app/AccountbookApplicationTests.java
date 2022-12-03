@@ -1,4 +1,4 @@
-package com.jihwan.accountbook;
+package com.jihwan.accountbook.app;
 
 import org.junit.Ignore;
 import org.junit.jupiter.api.Test;

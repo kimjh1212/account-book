@@ -1,4 +1,4 @@
-package com.jihwan.accountbook.dto;
+package com.jihwan.accountbook.domain.dto;
 
 import lombok.Builder;
 import lombok.Getter;
