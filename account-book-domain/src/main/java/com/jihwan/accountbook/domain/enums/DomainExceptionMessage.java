@@ -1,4 +1,4 @@
-package com.jihwan.accountbook.enums;
+package com.jihwan.accountbook.domain.enums;
 
 public enum DomainExceptionMessage {
 

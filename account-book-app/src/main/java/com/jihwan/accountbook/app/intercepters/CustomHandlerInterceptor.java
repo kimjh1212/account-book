@@ -1,4 +1,4 @@
-package com.jihwan.accountbook.intercepters;
+package com.jihwan.accountbook.app.intercepters;
 
 import org.springframework.web.servlet.HandlerInterceptor;
 

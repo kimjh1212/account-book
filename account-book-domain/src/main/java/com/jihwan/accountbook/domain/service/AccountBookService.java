@@ -1,9 +1,9 @@
-package com.jihwan.accountbook.service;
+package com.jihwan.accountbook.domain.service;
 
 import com.google.common.base.Preconditions;
-import com.jihwan.accountbook.entity.AccountBook;
-import com.jihwan.accountbook.enums.DomainExceptionMessage;
-import com.jihwan.accountbook.repository.AccountBookRepository;
+import com.jihwan.accountbook.domain.entity.AccountBook;
+import com.jihwan.accountbook.domain.enums.DomainExceptionMessage;
+import com.jihwan.accountbook.domain.repository.AccountBookRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;

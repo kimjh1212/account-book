@@ -1,6 +1,6 @@
-package com.jihwan.accountbook.entity;
+package com.jihwan.accountbook.domain.entity;
 
-import com.jihwan.accountbook.BaseEntity;
+import com.jihwan.accountbook.domain.BaseEntity;
 import lombok.*;
 
 import javax.persistence.Entity;
