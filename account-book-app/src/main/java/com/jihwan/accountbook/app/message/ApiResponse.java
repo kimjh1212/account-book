@@ -1,8 +1,10 @@
 package com.jihwan.accountbook.app.message;
 
+import lombok.Getter;
 import lombok.Setter;
 
 @Setter
+@Getter
 public class ApiResponse<T> {
     private static final String defaultMessage = "SUCCESS";
 

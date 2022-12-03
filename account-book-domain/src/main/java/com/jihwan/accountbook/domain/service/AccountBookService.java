@@ -18,7 +18,7 @@ public class AccountBookService {
 
     @Transactional
     public AccountBook create(String name, long accountBookTypeId) {
-        Preconditions.checkNotNull(name, DomainExceptionMessage.PARAMETER_IS_NULL.getMessage(), "name");
+        Preconditions.checkNotNull(name, DomainExceptionMessage.PARAMETER_IS_NULL.getMessage("name"));
 
         AccountBook tempBook = new AccountBook();
         tempBook.setName(name);
