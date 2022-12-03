@@ -1,2 +1,4 @@
 rootProject.name = 'account-book'
+include 'account-book-service'
+include 'account-book-domain'
 include 'account-book-app'
